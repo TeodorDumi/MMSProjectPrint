@@ -65,7 +65,7 @@ This starts the server which can be then reached by visiting **localhost:8080** 
 
 Done! Click the big red button to start recording, wait a few seconds, and click it again. Your song should show up!
 
-<p align ="center>"
+<p align ="center">
     <img src="https://i.imgur.com/5WbCXiZ.png">
 </p>
 
