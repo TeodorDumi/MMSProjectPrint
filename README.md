@@ -36,7 +36,7 @@ We did not intend to make it as pretty or as functional as Shazam, but rather, t
 Note: There will be **no** neural networks or deep learning in this project. That's too much.
 
 # Build instructions
-Designed to be built with [Maven](https://maven.apache.org/). Install maven and run, then enter lifecycle package.
+Designed to be built with [Maven](https://maven.apache.org/). Install maven and instruct it to enter the package lifecycle
 
 ```ssh=
 sudo apt install maven
